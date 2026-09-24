@@ -20,4 +20,4 @@ This was my first real power converter design, which helped me practice circuit 
 
 
 ## Tools
-LTSpice, MATLAB, Altium, TI C2000 (C)
+LTSpice, KiCAD, Oscilloscope
